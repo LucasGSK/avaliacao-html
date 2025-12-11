@@ -20,6 +20,12 @@ main p {
 header {
     background-color: #462814;
     padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h2 {
+    width: 300px;
 }
 
 header .centro {
